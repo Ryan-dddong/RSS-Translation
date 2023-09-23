@@ -13,5 +13,5 @@
 
  - source001 [https://www.youtube.com/@BMWGroup](https://www.youtube.com/@BMWGroup) -> [BMWGroup.xml](rss/BMWGroup.xml)
  - source002 [https://www.youtube.com/@MercedesBenz](https://www.youtube.com/@MercedesBenz) -> [MercedesBenz.xml](rss/MercedesBenz.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
+ - source003 [https://www.theverge.com/](https://www.theverge.com/) -> [theverge.xml](rss/theverge.xml)
  - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
